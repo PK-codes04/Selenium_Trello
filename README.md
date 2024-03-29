@@ -54,4 +54,4 @@ Create and Manage Workspace
 Create and Manage Workspace
 
 17.	Verify that user can delete the workspace.	
-![image](https://github.com/PK-codes04/Selenium_Trello/assets/165342691/13d07235-8cf8-42a9-86d2-68350b5c561d)
+
