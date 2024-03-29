@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-26T20:45:12 CDT" name="Default suite" finished-at="2023-10-26T20:45:26 CDT" duration-ms="14374">
+    <groups>
+    </groups>
+    <test started-at="2023-10-26T20:45:12 CDT" name="Default test" finished-at="2023-10-26T20:45:26 CDT" duration-ms="14374">
+      <class name="test.Trello_WorkspaceForTeamTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Trello_WorkspaceForTeamTests@7f552bd3]" started-at="2023-10-26T20:45:12 CDT" name="setup" finished-at="2023-10-26T20:45:12 CDT" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:test.Trello_WorkspaceForTeamTests@7f552bd3]" started-at="2023-10-26T20:45:12 CDT" name="setupTest" finished-at="2023-10-26T20:45:15 CDT" duration-ms="3150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="test14()[pri:0, instance:test.Trello_WorkspaceForTeamTests@7f552bd3]" started-at="2023-10-26T20:45:15 CDT" name="test14" finished-at="2023-10-26T20:45:23 CDT" duration-ms="8151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test14 -->
+        <test-method signature="test15()[pri:0, instance:test.Trello_WorkspaceForTeamTests@7f552bd3]" started-at="2023-10-26T20:45:23 CDT" name="test15" finished-at="2023-10-26T20:45:25 CDT" duration-ms="1557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test15 -->
+        <test-method signature="test16()[pri:0, instance:test.Trello_WorkspaceForTeamTests@7f552bd3]" started-at="2023-10-26T20:45:25 CDT" name="test16" finished-at="2023-10-26T20:45:25 CDT" duration-ms="541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test16 -->
+        <test-method signature="test17()[pri:0, instance:test.Trello_WorkspaceForTeamTests@7f552bd3]" started-at="2023-10-26T20:45:25 CDT" name="test17" finished-at="2023-10-26T20:45:25 CDT" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test17 -->
+        <test-method is-config="true" signature="teardownTest()[pri:0, instance:test.Trello_WorkspaceForTeamTests@7f552bd3]" started-at="2023-10-26T20:45:25 CDT" name="teardownTest" finished-at="2023-10-26T20:45:26 CDT" duration-ms="651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.Trello_WorkspaceForTeamTests@7f552bd3]" started-at="2023-10-26T20:45:26 CDT" name="teardown" finished-at="2023-10-26T20:45:26 CDT" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.Trello_WorkspaceForTeamTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
